@@ -1,0 +1,6 @@
+com\oktaviani\userservice\dto\User.class
+com\oktaviani\userservice\UserService\UserService.class
+com\oktaviani\userservice\UserServiceApplication.class
+com\oktaviani\userservice\repository\UserRepository.class
+com\oktaviani\userservice\UserServiceImpl.class
+com\oktaviani\userservice\controller\UserController.class
